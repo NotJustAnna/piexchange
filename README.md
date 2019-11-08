@@ -1,3 +1,5 @@
+![PiExchange, 1366x768](https://github.com/notjustanna/piexchange/raw/master/capture.png)
+
 # PiExchange
 Proof-of-Concept Fullscreen 16:9 Square Tile Menu made for Rapsberry Pi using HTML5's Flex.
 
